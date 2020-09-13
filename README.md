@@ -1,6 +1,7 @@
+![](https://user-images.githubusercontent.com/63115543/93021306-8e105500-f5a7-11ea-9ecd-b793ffbe3ced.png)
+
 ### Hi there 👋, my name is David Martínez
 #### I am an Electronic Engineer
-![](https://user-images.githubusercontent.com/63115543/93021316-99fc1700-f5a7-11ea-857d-aabbcd9f4dfc.jpg)
 
 I made this project just for fun this project allows you to create nice and simple GitHub readme files that you can copy/paste as use in your profile.
 
