@@ -15,7 +15,7 @@ Hi! My name is Juan David Martínez, I am 21 years old and I am originally from 
 Contact Me:
 * [My Website](https://davidmartinez16.github.io/David_Website/)
 * [My LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/juan-david-martinez-52b58912b//)
-* Email:
+* Email
   * davidmartinez16@outlook.com
   * jdavidmg16@gmail.com
 
