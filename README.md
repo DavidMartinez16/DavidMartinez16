@@ -1,4 +1,4 @@
-<img align='right' src="https://user-images.githubusercontent.com/63115543/93023049-d92f6580-f5b1-11ea-9986-bd1e86450268.gif" width="100%" height="70%">
+<img align='right' src="https://user-images.githubusercontent.com/63115543/93027228-31299480-f5d1-11ea-8e4b-88f44e3de62e.jpg" width="100%" height="70%">
 
 # Hi there 👋, my name is David Martínez
 ## I am an Electronic Engineer
