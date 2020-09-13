@@ -31,9 +31,6 @@ Hi! My name is Juan David Martínez, I am 21 years old and I am originally from 
 
 </details>
 
-<br />
-<br />
-
 <details>
   <summary>:zap: Github Stats</summary>
 
