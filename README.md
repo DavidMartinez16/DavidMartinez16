@@ -27,7 +27,17 @@ Hi! My name is Juan David Martínez, I am 21 years old and I am originally from 
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DavidMartinez16&show_icons=true&hide_border=true" />
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DavidMartinez16&show_icons=true&theme=tokyonight)
+
+</details>
+
+<br />
+<br />
+
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMartinez16&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
