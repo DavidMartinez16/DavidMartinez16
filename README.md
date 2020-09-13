@@ -7,7 +7,7 @@ Hi! My name is Juan David Martínez, I am 21 years old and I am originally from 
 
 
 ## Skills
-<img align='right' src="https://user-images.githubusercontent.com/63115543/93022287-2c071e00-f5ae-11ea-838b-d6f8f7021334.gif" width="330" height="240">
+<img align='right' src="https://user-images.githubusercontent.com/63115543/93022287-2c071e00-f5ae-11ea-838b-d6f8f7021334.gif" width="330" height="210">
 
 * Python                                                                                                                           
 * Machine Learning
