@@ -12,4 +12,10 @@ Hi! My name is Juan David Martínez, I am 21 years old and I am originally from 
 * Internet of Things
 * HTML
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DavidMartinez16)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/juan-david-martinez-52b58912b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://davidmartinez16.github.io/David_Website/)  
+Contact Me:
+* [My Website](https://davidmartinez16.github.io/David_Website/)
+* [My LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/juan-david-martinez-52b58912b//)
+* Email:
+  * davidmartinez16@outlook.com
+  * jdavidmg16@gmail.com
+
