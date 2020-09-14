@@ -19,7 +19,7 @@ Hi! My name is Juan David Martínez, I am 21 years old and I am originally from 
 
 ## Connect with me
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://davidmartinez16.github.io/David_Website/)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/https://www.linkedin.com/in/juan-david-martinez-52b58912b//)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/davidmartinez16/)
 
 <br />
 <br />
